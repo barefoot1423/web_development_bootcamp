@@ -10,6 +10,19 @@ body {
   flex: 1;
 }
 
+.tile-image {
+  height: 200px;
+  float: left;
+  margin-left: 50px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
 h1 {
   font-size: 5rem;
 }
@@ -18,4 +31,3 @@ footer {
   text-align: right;
   color: midnightblue;
 }
-
